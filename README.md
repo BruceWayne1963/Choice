@@ -1,4 +1,4 @@
 # Choice
 
-## Autokey or vignere?
+## Autokey or vigenere?
 You decide
