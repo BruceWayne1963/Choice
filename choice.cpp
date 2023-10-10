@@ -15,6 +15,6 @@ cout<<"Congratulations hero";
 else if(c == 2){
 cout<<"The Joker would like to have a word with you";
 }
-
+//rqlg{O_4u_N4uf4z}
 return 0;
 }
